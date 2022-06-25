@@ -1,6 +1,6 @@
 ### Olá! Eu sou o João Paulo 🙌
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaopaulzz14/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaopaulzz14/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-paulo-machado-a0468820b/)
 
 ![João Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopaulozz14&show_icons=true&theme=onedark)
